@@ -8,11 +8,11 @@ Java:
 * Superclass:
 *   (Private Subclass):
 *   Public Subclass:
-*     \*(Private Property): type
-*     \*Public Property: type
-*     \>Constructor: args
-*     \!(Private Method): args : return type
-*     \!Public Method: args :return type
+*     *(Private Property): type
+*     *Public Property: type
+*     >Constructor: args
+*     !(Private Method): args : return type
+*     !Public Method: args :return type
 * 
 * Qualifiers:
 *   ^: Static
@@ -20,6 +20,6 @@ Java:
 *   $: Final
 
 
-  *\/Structure:
+  * \/Structure:
   *  (Tree):
   *    (TreeNode)
